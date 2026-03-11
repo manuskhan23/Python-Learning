@@ -64,10 +64,10 @@
 # practice_6_sum=practice_6(5)
 # print(practice_6_sum)
 
-practice_7_list=[1,4,3,7,2,3,6,5,8,4]
-def practice_7(list,idx):
-    if(idx==(len(list)-1)):
-        return
-    print(list[idx])
-    practice_7(list,idx+1)
-practice_7(practice_7_list,0)
+# practice_7_list=[1,4,3,7,2,3,6,5,8,4]
+# def practice_7(list,idx):
+#     if(idx==(len(list)-1)):
+#         return
+#     print(list[idx])
+#     practice_7(list,idx+1)
+# practice_7(practice_7_list,0)
